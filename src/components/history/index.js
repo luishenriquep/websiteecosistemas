@@ -11,8 +11,8 @@ function Feature() {
               <div> <div class="row">
 
 
-
-                <h2 class="section-title wow fadeInLeft" data-wow-delay="0.1s">Sobre a nossa história</h2>
+              < div class="wow fadeInDown" data-wow-delay="0.1s"></div>
+                <h2 class="section-title " ><br/>Sobre a nossa história</h2>
                   
                   <div class="features-box wow fadeInLeft" data-wow-delay="0.1s">
                       
@@ -60,7 +60,8 @@ function Feature() {
           </div>
           <div class="col-lg-6 col-md-12 col-sm-12 padding-none">
             <div class="feature-thumb wow fadeInRight" data-wow-delay="0.1s">
-              <img src="/assets/img/feature/img-1-1.jpg" alt=""/>
+              <img src="/assets/img/feature/img-1-1.jpg" alt="Fachada Ecosistemas Computação" title="Fachada Ecosistemas Computação"/>
+
             </div>
           </div>
         </div>

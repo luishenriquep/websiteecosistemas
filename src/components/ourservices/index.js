@@ -6,7 +6,8 @@ function Services() {
     <section id="services" class="section-padding">
        <div class="container">
         <div class="section-header text-center">
-          <h2 class="section-title wow fadeInDown" data-wow-delay="0.1s">Serviços</h2>
+        < div class=" wow fadeInDown" data-wow-delay="0.1s"></div>
+          <h2 class="section-title"><br/>Serviços</h2>
         </div>
 
 
@@ -17,20 +18,15 @@ function Services() {
                 <i class="lni-cog"></i>
               </div>
               <div class="services-content">
-                <h3><a >Desemvolvimento Web </a></h3>                
+                <h3>Desenvolvimento Web </h3>                
                 <p>
-                  Oferecemos Websites inovadores, atrativos e acima de tudo 
-                  funcional adquado à diversos dispositivos 
-                  afim de trazer à melhor experiência ao usuário.
+                Oferecemos Websites inovadores, atrativos e, acima de tudo, 
+                funcionais. Adequado a diversos dispositivos, afim de trazer 
+                melhor experiência ao usuário. Sites práticos, desenvolvidos 
+                baseados no conceito de responsividade.
 
                 </p>
-                <p>
-                  Sites Fluidos desenvolvidos em cima do conceito de responsividade.
-
-                  
-                  
-
-                </p>
+                
               </div>
             </div>
           </div>
@@ -42,13 +38,12 @@ function Services() {
                 <i class="lni-bar-chart"></i>
               </div>
               <div class="services-content">
-                <h3><a >Desenvolvimento de Sistemas  </a></h3>
+                <h3>Desenvolvimento de Sistemas  </h3>
                 <p>
-                Desenvolvimento de software baseada 
-                nas melhores práticas de projeto
-                aliada com estratégias de processos de 
-                negócio adquada à capacidade de investimento 
-                de cada empresa.</p>
+                Desenvolvimento de sistemas personalizado, conforme as 
+                necessidades da sua empresa. Assim, você não precisará 
+                se adaptar para usar um pacote pronto, o sistema será 
+                ajustado de acordo com suas necessidades.</p>
               </div>
             </div>
           </div>
@@ -60,7 +55,7 @@ function Services() {
                 <i class="lni-mobile"></i>
               </div>
               <div class="services-content">
-                <h3><a >Aplicativos Mobile </a></h3>
+                <h3>Aplicativos Mobile </h3>
                 <p> Trabalhamos para melhor te atender durante todo o desenvolvimento do seu app 
                  </p>
                  <p>

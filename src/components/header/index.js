@@ -12,28 +12,23 @@ function Header() {
       <nav className="navbar navbar-expand-lg fixed-top scrolling-navbar indigo">
         <div className="container">
           <div className="navbar-header">
+            
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon"></span>
               <span className="icon-menu"></span>
               <span className="icon-menu"></span>
               <span className="icon-menu"></span>
             </button>
-            <a href="" className="navbar-brand" >
 
-              <div class ="logo"> 
-
-              <a className="nav-link" href="#hero-area">
-                <Image
-
-                 src="/assets/img/logo.png" height='40' 
-                 
-                 />
-
-              </a>
-              </div>
+            <div className="navbar-brand" >
+              <div class ="logo" > 
+               
+                  <Image src="/assets/img/logo.png"  />
               
-            </a>
+              </div> 
+            </div>
           </div>
+          
           <div className="collapse navbar-collapse" id="main-navbar">
             <ul className="navbar-nav mr-auto w-100 justify-content-left clearfix">
               <li className="nav-item active">
@@ -110,9 +105,9 @@ function Header() {
                   fadeOutAnimation={true}
                   mouseTrackingEnabled={true}
                   disableAutoPlayOnAction={true}>
-                    <img src="../../assets/img/slide/img1.jpg" style={{height:440}} className="sliderimg" alt=""/>
-                    <img src="../../assets/img/slide/img2.jpg" style={{height:440}} className="sliderimg" alt=""/>
-                    <img src="../../assets/img/slide/img3.jpg" style={{height:440}} className="sliderimg" alt=""/>
+                    <img src="../../assets/img/slide/img1.jpg" style={{height:440}} className="sliderimg" title="Planejamento Ecosistema" alt="Planejamento Ecosistema"/>
+                    <img src="../../assets/img/slide/img2.jpg" style={{height:440}} className="sliderimg" title="Orcamentos Ecosistemas" alt="Orcamentos Ecosistemas"/>
+                    <img src="../../assets/img/slide/img3.jpg" style={{height:440}} className="sliderimg" title="Equipe de Desenvolvimento da Empresa" alt="Equipe de Desenvolvimento da Empresa"/>
                 </AliceCarousel>
               </div>
             </div>

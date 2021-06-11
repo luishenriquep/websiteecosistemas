@@ -88,9 +88,9 @@
   .title-hl {
     font-size: 22px;
   }
-  .navbar-brand img {
+  /*.navbar-brand img {
     margin: 5px 0;
-  }
+  }*/
   #hero-area .contents {
     padding: 100px 0px 60px 0px;
   }
@@ -118,9 +118,9 @@
   .testimonial-item {
     padding: 0;
   }
-  .client-item-wrapper img {
+  /*.client-item-wrapper img {
     width: 70%;
-  }
+  }*/
   .slick-slider {
     padding: 0;
   }

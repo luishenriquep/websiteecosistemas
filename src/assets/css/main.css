@@ -62,7 +62,7 @@ ul li, ol li {
 }
 
 .section-title-header p {
-  text: center;
+  text-align: center;
   font-weight: 400;
   line-height: 26px;
   padding-bottom: 10px;
@@ -558,7 +558,7 @@ hr {
   border-bottom: 1px solid #f1f1f1;
   text-decoration: none;
   display: inline-block;
-  float: left;
+ /* float: left;*/
   clear: both;
   position: relative;
   outline: 0;
@@ -630,7 +630,7 @@ hr {
   .navbar-brand {
     position: absolute;
     padding: 15px 15px;
-    top: 0;
+    top: 0px;
   }
   .navbar-brand img {
     width: 75%;

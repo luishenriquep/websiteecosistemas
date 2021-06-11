@@ -37,7 +37,8 @@ function Contact() {
         <div class="row">
           <div class="col-12">
             <div class="section-header text-center">
-              <h2 class="section-title wow fadeInDown" data-wow-delay="0.1s">Contato</h2>
+            < div class="wow fadeInDown" data-wow-delay="0.1s"></div>
+              <h2 class="section-title ">Contato</h2>
             </div>
           </div>
         </div>
@@ -99,7 +100,7 @@ function Contact() {
                     <i class="lni-map-marker"></i>
                   </div>
                   <p>
-                   R. Ten. Bernardes - Centro, Jardim - Mato Grosso do Sul - Brasil, 79240-000
+                   R. Ten. Bernardes n° 790 - Centro, Jardim - Mato Grosso do Sul - Brasil, 79240-000
                    </p>
                 </div>
                 <div class="single-contact">

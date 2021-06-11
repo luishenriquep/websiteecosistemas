@@ -2,5 +2,11 @@ import styled from 'styled-components';
 
 export const Image = styled.img`
   
-  height: 40px;
+  height: 50px;
+
+  padding-bottom: 10px;
+
+
 `;
+
+
