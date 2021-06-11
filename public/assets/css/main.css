@@ -388,6 +388,8 @@ hr {
 }
 
 .services-item .services-content h3 {
+  font-size: 15px;
+  text-transform: uppercase;
   margin-top: 10px;
   font-weight: 500;
   margin-bottom: 10px;
